@@ -20,12 +20,7 @@ setuptools.setup(
     url='https://github.com/damiafuentes/DJITelloPy',
     download_url='https://github.com/damiafuentes/DJITelloPy/archive/2.4.0.tar.gz',
     keywords=['tello', 'dji', 'drone', 'sdk', 'official sdk'],
-    install_requires=[
-        'numpy',
-        'opencv-python',
-        'av',
-        'pillow'
-    ],
+    install_requires=[],
     python_requires='>=3.6',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
